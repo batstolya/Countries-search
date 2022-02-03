@@ -1,0 +1,41 @@
+/* write your styles here */
+
+h1 {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    width: 75%;
+}
+
+table td {
+    padding: 20px;
+    border: 1px solid black;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    align-items: center;
+}
+
+.div-for-search-query {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+select {
+    width: 150px;
+    height: 30px;
+}
+
+#messadge {
+    display: flex;
+    justify-content: center;
+}
